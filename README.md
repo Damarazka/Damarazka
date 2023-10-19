@@ -19,7 +19,7 @@ Berikut adalah beberapa proyek yang saya banggakan:
 
 1. 🚀 [AzzkPedia](https://github.com/Damarazka/AzzkPedia.git) - Aplikasi baca berita dengan 4 kriteria pilihan.
 2. 🌟 [Doa & Dzikir App](https://github.com/Damarazka/Application_Doa_Dzikir.git) - Apilikasi Doa & Dzikir untuk memudahkan umat ketika ingin berdzikir dimana pun & kapan pun.
-3. ✉️ [AzzkChat](https://github.com/Damarazka/real-time-chat.git) - Website Chat antar user dalam real time.
+3. ✉️ [AzzkChat](https://github.com/Damarazka/real-time-chat.git) - Website Chat antar pengguna dalam real time.
 
 ## 🌱 Sedang Saya Pelajari
 
